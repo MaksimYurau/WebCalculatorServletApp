@@ -1,0 +1,3 @@
+GET http://localhost:8080/home?x=5&y=4&opType=sum
+
+###
